@@ -1,0 +1,9 @@
+ What to Do :-
+ Setup basic Express server & local development environment + Create APIs on machine locally
+ Create route: GET /user – render HTML page of users
+ Create route: GET /api/user – return all users in JSON format
+ Create route: GET /api/user/:id – fetch user by ID
+ Create route: POST /api/user – add a new user
+ Create route: PATCH /api/user/:id – update user by ID
+ Create route: DELETE /api/user/:id – delete user by ID
+ Use req.params and req.body to handle input
