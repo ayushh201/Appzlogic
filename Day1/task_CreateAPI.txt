@@ -1,0 +1,15 @@
+CREATING REST API - JSON
+
+Routes -> tasks
+
+GET /users -> list all users - HTML Document Render
+GET /api/users -> list all users in JSON
+GET /api/users/1 -> get the user with id 1
+GET /api/users/2 -> get the user with id 2
+GET /api/users/:id -> dynamic path parameter
+
+POST /users -> create new user
+
+PATCH /users/1 -> edit the user with id 1
+
+DELETE /users/1 -> Delete the user with id 1
