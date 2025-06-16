@@ -1,0 +1,9 @@
+Postman API tests for:
+
+POST /api/users – Create user
+
+PUT /api/users/:id – Update user
+
+GET /api/users – List all users
+
+GET /api/users/:id – Get user by ID
