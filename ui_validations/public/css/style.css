@@ -1,0 +1,14 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .card {
+    border-radius: 10px;
+  }
+  .btn {
+    font-weight: 600;
+  }
+  input:invalid {
+    border-color: red;
+  }
+  
+  
